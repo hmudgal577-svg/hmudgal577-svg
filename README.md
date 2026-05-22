@@ -54,6 +54,12 @@ I am a passionate software developer specializing in building clean, high-perfor
 
 ### 🌟 Featured Projects
 
+#### 🤖 [Blender MCP](https://github.com/hmudgal577-svg/blender-mcp)
+An innovative Model Context Protocol (MCP) server that empowers AI assistants (like Claude) to programmatically manipulate 3D environments in Blender:
+* **Natural Language Control**: Translates voice or text requests directly into optimized Blender Python script actions.
+* **3D Scene Automation**: Programmatic generation of geometries, precise camera controls, lighting setups, and automated render triggers.
+* **Bi-directional Bridge**: High-performance local socket server communicating directly with Blender's custom python environments (`bpy`).
+
 #### 🎮 [Arena 3](https://github.com/hmudgal577-svg/Arena3-game)
 A pure Java Swing arcade suite with a dark luxury interface featuring:
 * **Snake** with BFS-driven AI pathfinding.
