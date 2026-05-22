@@ -19,19 +19,62 @@ I am a passionate software developer specializing in building clean, high-perfor
 
 ### 🛠️ Languages & Tech Stack
 
-<div align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  
-  <!-- Tools & Dev -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-</div>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>💻 Programming Languages</h4>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    </td>
+    <td valign="top" width="50%">
+      <h4>🧱 Frameworks & Libraries</h4>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>🧠 AI, Machine Learning & Deep Learning</h4>
+      <img src="https://img.shields.io/badge/Machine_Learning-3F51B5?style=for-the-badge&logo=analytics&logoColor=white" alt="Machine Learning" />
+      <img src="https://img.shields.io/badge/Deep_Learning-2196F3?style=for-the-badge&logo=brain&logoColor=white" alt="Deep Learning" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+      <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit Learn" />
+    </td>
+    <td valign="top" width="50%">
+      <h4>🤖 AI Tools & Platforms</h4>
+      <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+      <img src="https://img.shields.io/badge/GPT_/_OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="GPT" />
+      <img src="https://img.shields.io/badge/Codex-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=google&logoColor=cyan" alt="Antigravity" />
+      <img src="https://img.shields.io/badge/Google_Flow-FF9800?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Flow" />
+      <img src="https://img.shields.io/badge/Google_Whisk-FF5722?style=for-the-badge&logo=apacheopenwhisk&logoColor=white" alt="Google Whisk" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" colspan="2">
+      <h4>⚙️ DevOps, OS & Development Tools</h4>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+      <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+    </td>
+  </tr>
+</table>
 
 ---
 
