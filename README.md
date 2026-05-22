@@ -81,13 +81,23 @@ I am a passionate software developer specializing in building clean, high-perfor
 ### 📊 GitHub Stats & Insights
 
 <div align="center">
+  <img src="https://komarev.com/normal-badge/?username=hmudgal577-svg&color=D4AF37&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  
+  <br/><br/>
+
   <table border="0">
     <tr>
-      <td align="center">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hmudgal577-svg&show_icons=true&theme=calm&bg_color=0a0a0c&text_color=d4af35&title_color=00eeff&icon_color=ff2e63&border_color=141419" alt="Harsh's GitHub Stats" />
+      <td align="center" valign="top">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hmudgal577-svg&show_icons=true&theme=dark&bg_color=0a0a0c&text_color=ffffff&title_color=D4AF37&icon_color=00eeff&border_color=D4AF37" alt="Harsh's GitHub Stats" />
       </td>
-      <td align="center">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmudgal577-svg&layout=compact&theme=calm&bg_color=0a0a0c&text_color=d4af35&title_color=00eeff&icon_color=ff2e63&border_color=141419" alt="Top Languages" />
+      <td align="center" valign="top">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmudgal577-svg&layout=compact&theme=dark&bg_color=0a0a0c&text_color=ffffff&title_color=D4AF37&icon_color=00eeff&border_color=D4AF37" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" colspan="2">
+        <br/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=hmudgal577-svg&theme=dark&background=0a0a0c&ring=00eeff&fire=ff2e63&currStreakNum=D4AF37&currStreakLabel=ffffff&sideNums=D4AF37&sideLabels=ffffff&dates=888888&border=D4AF37" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
